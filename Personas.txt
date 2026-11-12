@@ -1,0 +1,5 @@
+11111111-1,Juan,25,M,Ingeniero
+22222222-2,Maria,30,F,Doctora
+33333333-3,Pedro,22,M,Estudiante
+44444444-4,Ana,28,F,Arquitecta
+15522407-K,Andres,41,M,Tecnico
